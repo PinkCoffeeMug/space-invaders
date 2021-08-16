@@ -51,7 +51,7 @@ This is an implementation of the Japanese game released in 1978 by Taito.
 ## :apple: Demo
 
 <div align="center">
-    <video src="./demo/space-invaders-demo.mp4" width="465" height="350" controls></video>
+    <img src="demo/space-invaders-demo.gif" width="450">
 </div>
 
 <!-- CONTRIBUTING -->
