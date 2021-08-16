@@ -44,7 +44,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## :star: About The Project
-This is an implementation of the Japanese game released in 1978 by Taito.
+This is an implementation inspired by the Japanese game released in 1978 by Taito.
 
 <!-- CONTENT -->
 
