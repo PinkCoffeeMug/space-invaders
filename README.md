@@ -67,7 +67,7 @@ Contributions are welcome! Follow these steps:
 <!-- LICENSE -->
 ## :pencil: License
 
-This project is licensed under [Apache2.0](https://opensource.org/licenses).
+This project is licensed under [MIT](https://opensource.org/licenses).
 
 <!-- RESOURCES-->
 
